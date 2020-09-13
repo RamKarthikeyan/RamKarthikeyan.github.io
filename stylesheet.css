@@ -1,0 +1,17 @@
+.footer{background-color:rgb(12, 5, 49);
+color:rgb(255, 60, 0);
+text-align:center;
+padding-right:10px;
+padding-left:10px;
+padding-bottom:10px}
+
+.padding{padding-right:30px;padding-left:30px;
+padding-top:30px;padding-bottom:30px}
+
+.overall{color:white;
+background-color:rgb(36, 33, 33)}
+
+.title{color:rgb(255, 60, 0);
+text-shadow:0 1px rgb(252, 251, 251),1px 0 rgb(248, 248, 248),-1px 0 rgb(252, 251, 250),0 -1px rgb(250, 249, 248)}
+
+.heading{color:rgb(255, 0, 0);text-shadow:0 1px white,1px 0 white,-1px 0 white,0 -1px white}
