@@ -40,12 +40,12 @@ display:none;
 }
 .menubar ul li:hover .submenu-1 ul{
     display:block;
-    margin:10px;
+    margin:20px;
 
 }
 .menubar ul li:hover .submenu-1 ul li{
-    width:150px;
-    padding:10px;
+    width:120px;
+    padding:20px;
     border-bottom:1px dotted #fff;
     background:transparent;
     border-radius:0;
